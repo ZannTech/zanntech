@@ -23,7 +23,7 @@ I'm a tech enthusiast who loves the mobile and web development!
 
 -------
 
-![Zanntech's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZannTech&show_icons=true&theme=radical)
+![Zanntech's GitHub stats](https://github-readme-stats.vercel.app/api?username=zannetdev&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZannTech&layout=compact&theme=radical)](https://github.com/ZannTech/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zannetdev&layout=compact&theme=radical)](https://github.com/ZannTech/github-readme-stats)
 
