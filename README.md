@@ -15,15 +15,17 @@ I'm a tech enthusiast who loves the mobile and web development!
 - PHP (Native, Laravel & CodeIgniter)
 - CSS
 - React
-- App Development (Flutter, React Native, Java & Kotlin)
+- App Development (React Native, Java & Kotlin)
 - Api Rest
 - MySQL
 - DevOps
 - Creative Design
-
+- Python
+- Next.js
+- OpenCV + Python
 -------
 
-![Zanntech's GitHub stats](https://github-readme-stats.vercel.app/api?username=zanntech&show_icons=true&theme=dark)
+![Zanntech's GitHub stats](https://github-readme-stats.vercel.app/api?username=zanntech&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zanntech&layout=compact&theme=dark)](https://github.com/ZannTech/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zanntech&layout=compact&theme=dracula&langs_count=10)](https://github.com/ZannTech/github-readme-stats)
 
