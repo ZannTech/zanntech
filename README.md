@@ -1,3 +1,8 @@
+<b>Hi there,I'm Zanntech</b>👋<br>
+
+| [![zanntech](https://img.shields.io/badge/ZANN-TECH-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=zanntech&color=green) | ![Followers](https://img.shields.io/github/followers/zanntech) | ![Stars](https://img.shields.io/github/stars/zanntech?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
+--| --| --| --|
+
 ![Pink Purple   Blue Modern Company Twitter Header](https://user-images.githubusercontent.com/114975416/193748952-b049d8c1-692a-4a75-b021-62b2b0e8cc73.png)
 
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
@@ -24,8 +29,10 @@ I'm a tech enthusiast who loves the mobile and web development!
 - Next.js
 - OpenCV + Python
 -------
-
-![Zanntech's GitHub stats](https://github-readme-stats.vercel.app/api?username=zanntech&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zanntech&layout=compact&theme=dracula&langs_count=10)](https://github.com/ZannTech/github-readme-stats)
+## ⚡ Stats:
+<br><br>
+![](https://github-readme-stats.vercel.app/api?username=zanntech&theme=light&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=zanntech&theme=light&hide_border=false)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zanntech&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zanntech&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
 
